@@ -3,7 +3,7 @@
   <br>
 
 
-<p align="center"> DATAVIZFAIRY
+<p align="center"><h3> DATAVIZFAIRY</h3>
   <br>
   <br>
 line
