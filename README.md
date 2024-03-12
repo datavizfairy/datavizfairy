@@ -1,10 +1,6 @@
-<p align="center">
+
   <img src="https://datavizfairy.co.uk/wp-content/uploads/2024/01/datavizfairy-Logo-GIF-v2.gif"  width="100" height="100">
-  <br>
 
+# DATAVIZFAIRY
 
-<p align="center"><h3> DATAVIZFAIRY</h3>
-  <br>
-  <br>
-line
----
+Welcome to my GitHub page.
