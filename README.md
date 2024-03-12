@@ -4,3 +4,7 @@
 # DATAVIZFAIRY
 
 Welcome to my GitHub page.
+
+I am a Tableau/Alteryx Consultant at The Information Lab / Data School UK, specialising in data visualisation and analytics. With a passion for creative design, I enjoy transforming data into clear and visually engaging insights. I have received x6 #VizOfTheDay ‘s on Tableau Public, showcasing my ability to deliver impactful visualisations.
+
+With my expertise, I am committed to helping organisations unlock the full potential of their data.
