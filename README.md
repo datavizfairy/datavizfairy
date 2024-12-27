@@ -13,7 +13,7 @@ With my expertise, I am committed to helping organisations unlock the full poten
 <br>
 <br>
 ### RECOGNITIONS
-`⭐ X6 Viz of The Day's` <br>
-`⭐ Tableau Public Featured Author '23` <br>
-`⭐ X4 Vizzie Nominee` <br>
-`⭐ #TableauNext '23` <br>
+`🌸 X8 Viz of The Day's` <br>
+`🌿 Tableau Public Ambassador <br>
+`⭐ X1 Vizzie Awardee` <br>
+`💜 B2VB Co-lead <br>
