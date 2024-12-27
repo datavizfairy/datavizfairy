@@ -14,6 +14,6 @@ With my expertise, I am committed to helping organisations unlock the full poten
 <br>
 ### RECOGNITIONS
 `🌸 X8 Viz of The Day's` <br>
-`🌿 Tableau Public Ambassador <br>
+`🌿 Tableau Public Ambassador` <br>
 `⭐ X1 Vizzie Awardee` <br>
-`💜 B2VB Co-lead <br>
+`💜 B2VB Co-lead` <br>
